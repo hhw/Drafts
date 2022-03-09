@@ -1,3 +1,5 @@
+ <meta http-equiv="refresh" content="1;url=http://hhw.im">
+ 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hhw/alan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
